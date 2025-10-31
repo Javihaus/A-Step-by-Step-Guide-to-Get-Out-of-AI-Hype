@@ -1,6 +1,6 @@
 # A Step-by-Step Guide to Get Out of AI Hype (book)
 ## The Executive's Framework for Making Smart Technology Investments
-![A_Step_by_Step_Guide_to_Get_Out_of_AI_Hype_final](https://github.com/user-attachments/assets/3816fde4-3e6f-4ed9-babd-8c1d612dc95d)
+![A_Step_by_Step_Guide_to_Get_Out_of_AI_Hype_final](images/Portadas_libro-04.png)
 
 
 Every month, executives spend millions on AI initiatives that violate basic business principles they would never ignore in any other context. IBM's $5 billion Watson failure. Zillow's $304 million algorithmic loss. Klarna's CEO admitting their AI-first strategy "resulted in lower quality work." These aren't isolated mistakes—they're predictable outcomes from confusing technological sophistication with business value.
